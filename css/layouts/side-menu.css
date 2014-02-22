@@ -1394,6 +1394,13 @@ a.pure-button-primary {
         margin: 0 0 1em;
         color: #666;
     }
+    .hero-byline {
+        font-size: 125%;
+        font-weight: 100;
+        line-height: 1.5;
+        margin: 0 0 1em;
+        color: #666;
+    }
 
 .hero-cta .code {
     margin-left: auto;

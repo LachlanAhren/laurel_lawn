@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Laurel Lawn Cemetery Contact page">
+
+    <title>Laurel Lawn</title>
+
+    
+    
+    
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+
+
+
+
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="css/layouts/side-menu-old-ie.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="css/layouts/side-menu.css">
+    <!--<![endif]-->
+  
+  
+
+
+
+
+
+    
+<!--[if lt IE 9]>
+<![endif]-->
+
+
+    
+
+
+</head>
+<body>
+
+    <div id="layout">
+        <a href="#menu" id="menuLink" class="menu-link">
+    <span></span>
+</a>
+
+<div id="menu">
+    <div class="pure-menu pure-menu-open">
+        <a class="pure-menu-heading" href="/index.html">Laurel Lawn</a>
+
+        <ul>
+          
+          
+            <li class=" ">
+                <a href="/about.html">About</a>
+            </li>
+            <li class=" ">
+                <a href="/events.html">Events</a>
+            </li>
+          
+            <li class=" ">
+                <a href="/contact_us.html">Contact Us</a>
+            </li>
+          
+          
+            <li class=" ">
+                <a href="/gallery.html">Photos</a>
+            </li>
+          
+        </ul>
+    </div>
+</div>
+
+
+        <div id="main">
+
+            
+
+
+
+
+
+<div class="hero">
+    <div class="hero-titles">
+        <h1 class="hero-site">Laurel Lawn</h1>
+        <h2 class="hero-tagline">Prices</h2>
+    </div>
+
+</div>
+
+
+<div class="pure-g-r">
+<div class="pure-u-1">
+<h3 class="marketing-header">Cemetery Lots</h3>
+<table class="pure-table-horizontal">
+    <thead>
+        <tr>
+            <th>Space</th>
+            <th>Section</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>Single</td>
+            <td>1,2,3,4</td>
+            <td>300</td>
+        </tr>
+
+        <tr>
+            <td>Single</td>
+            <td>3A,3B,3C</td>
+            <td>350</td>
+        </tr>
+
+        <tr>
+            <td>Single</td>
+            <td>5</td>
+            <td>450</td>
+        </tr>
+        <tr>
+            <td>Cremains</td>
+            <td>5</td>
+            <td>300</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="pure-u-1">
+<h3 class="marketing-header">Burials</h3>
+<table class="pure-table-horizontal">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>Grave Opening with tent and greens</td>
+            <td>750</td>
+        </tr>
+
+        <tr>
+            <td>Grave Opening with tent and greens, Weekends and Holidays</td>
+            <td>850</td>
+        </tr>
+
+        <tr>
+            <td>Grave Opening without tent and greens</td>
+            <td>650</td>
+        </tr>
+        <tr>
+            <td>Infants to age 1 year</td>
+            <td>250</td>
+        </tr>
+        <tr>
+            <td>Cremains with tent and greens</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>Cremains without tent and greens</td>
+            <td>150</td>
+        </tr>
+        <tr>
+            <td>Cremains without service</td>
+            <td>100</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="pure-u-1">
+<h3 class="marketing-header">Foundations</h3>
+<p>
+	 0.50 (50 cents) per square inch
+	Maximum foundation width for single lot:  2 feet
+</p>
+</div>
+<div class="pure-u-1">
+<h3 class="marketing-header">Catholic</h3>
+<p>
+(section 6)–  Must be purchased directly from the Parish of the Holy Cross. Contact Kathie Dowie at 856-455-2323
+</p>
+</div>
+<div class="pure-u-1">
+<h3 class="marketing-header">Cremains</h3>
+<p>
+Total cremains burials allowed per space:
+	One cremains placed over an existing vault - all sections
+	Three cremains in one space - Sections 1- 4
+	Two cremains in one cremains space – Sections 5 and 6
+
+</p>
+</div>
+
+</div>
+</div>
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+<script src="js/ui.js"></script>  
+  
+
+</body>
+</html>
