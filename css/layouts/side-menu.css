@@ -1699,3 +1699,34 @@ pre .support.value  {
     font-weight: normal;
     color: #3b8bba; /* skinbuilder block-mine-text-low with #1f8dd6 as primary */
 }
+.faq {
+  cursor: pointer;
+  color: blue;
+}
+.faq:hover {
+  background-color: #E5E4E2;
+  cursor: pointer;
+}
+.collapse{
+  /*font-size: 31px;*/
+  display:block;
+}
+.collapse + input{
+  display:none;
+  li { cursor: pointer; cursor: hand; }
+  li a:hover,
+  li a:focus {
+            background: #E5E4E2;
+        }
+}
+.collapse + input + *{
+  display:none;
+  li { cursor: pointer; cursor: hand; }
+  li a:hover,
+  li a:focus {
+            background: #E5E4E2;
+        }
+}
+.collapse+ input:checked + *{
+  display:block;
+}
